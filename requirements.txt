@@ -1,4 +1,3 @@
 matplotlib
 pandas
-pyomo.environ
-pyomo.gdp
+pyomo
